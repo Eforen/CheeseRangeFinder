@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: CheeseRangeFinder
+## Notes: Currently a simple rangefinder mod for WoW classic that follows mouse
+## Author: Eforen
+## Version: 0.1
+
+## X-Category: Utility
+
+Libs.xml
+CheeseRangeFinder.lua
